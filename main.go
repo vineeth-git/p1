@@ -1,4 +1,4 @@
-package main
+package Uniq
 import "fmt"
 import 	"github.com/StudioSol/set"
 
